@@ -1,0 +1,13 @@
+{
+  "name": "astro-engine-crosscheck",
+  "version": "1.0.0",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "AGPL-3.0",
+  "description": "Independent cross-check of astro-engine with astronomy-engine (MIT)",
+  "dependencies": {
+    "astronomy-engine": "2.1.19"
+  },
+  "private": true
+}
